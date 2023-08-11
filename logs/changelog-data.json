@@ -1,1 +1,48 @@
 
+{
+ "commit": "e824b09dda083113308105ba6c791a9656a0a4cc",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Fri Aug 11 18:50:15 2023 -0300",
+ "message": "Update-main.yml"
+},
+
+{
+ "commit": "1b60e1c60b40dbdcd339b02016332e13cef8657d",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Fri Aug 11 18:42:43 2023 -0300",
+ "message": "Create-package-lock.json"
+},
+
+{
+ "commit": "8dafeb733c2c44bea391bb4c93fa45fd2e83fc32",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Fri Aug 11 18:41:29 2023 -0300",
+ "message": "Create-package.json"
+},
+
+{
+ "commit": "469e3cb79a93576ae109a2733355f1fa94aa664f",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Fri Aug 11 18:40:33 2023 -0300",
+ "message": "Create-changelog-data.json"
+},
+
+{
+ "commit": "bbdc5cf55ead332d74fec4160eb8ce180983f3a8",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Fri Aug 11 18:39:46 2023 -0300",
+ "message": "Create-main.yml"
+},
+
+{
+ "commit": "e9c55e9b2ebb6e95abd683883a754bd95682ea48",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Fri Aug 11 18:08:29 2023 -0300",
+ "message": "Initial-commit"
+},
