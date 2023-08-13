@@ -38,6 +38,8 @@ jobs:
       - name: Arquivo de Log
         run: |
           git --no-pager log --pretty=format:'%n{%n %x22commit%x22: %x22%H%x22,%n %x22author%x22: %x22%an%x22,%n %x22author_email%x22: %x22%ae%x22,%n %x22date%x22: %x22%ad%x22,%n %x22message%x22: %x22%f%x22%n},' > logs/changelog-data.json
+          sed -i '1 s/^/[ /' logs/changelog-data.json
+          sed -i '$ s/$/]/g' logs/changelog-data.json
           
       - name: Commit para atualizar os arquivos
         run: |
