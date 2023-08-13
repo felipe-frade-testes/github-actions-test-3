@@ -1,5 +1,21 @@
 [ 
 {
+ "commit": "056fbcf58e30c0ebee52da80afaf815dfe1eaaa7",
+ "author": "Felipe Frade de Oliveira Pereira",
+ "author_email": "39383884+felipe-frade@users.noreply.github.com",
+ "date": "Sun Aug 13 19:36:42 2023 -0300",
+ "message": "Update-main.yml"
+},
+
+{
+ "commit": "9686abe54b54aece82cd7c474c43181e69a81c1e",
+ "author": "ramirooliveiracg",
+ "author_email": "ramiro@cgcontadores.com.br",
+ "date": "Sun Aug 13 22:35:52 2023 +0000",
+ "message": "feat-2.4.1-2.5.0"
+},
+
+{
  "commit": "978d8e2bdac39f972451549026dd1504b225a7fb",
  "author": "Felipe Frade de Oliveira Pereira",
  "author_email": "39383884+felipe-frade@users.noreply.github.com",
@@ -93,4 +109,4 @@
  "author_email": "39383884+felipe-frade@users.noreply.github.com",
  "date": "Fri Aug 11 18:08:29 2023 -0300",
  "message": "Initial-commit"
-},]
+}]
